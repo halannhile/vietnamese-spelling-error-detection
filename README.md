@@ -39,7 +39,7 @@ Here is a list of the key files in this project and their roles:
 
 ## Project Report
 
-For detailed analysis, results, and discussions, refer to the project report.
+For detailed analysis, results, and discussions, refer to the [project report](https://github.com/halannhile/vietnamese-spelling-error-detection/blob/main/nhihlle_report.pdf).
 
 ## Reference
 
