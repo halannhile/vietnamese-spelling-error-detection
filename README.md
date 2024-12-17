@@ -26,9 +26,13 @@ This script performs the following:
 
 * Fine-tunes the VSEC Transformer-based model and evaluates its performance.
 
+## Project Report
+
+[Link](https://github.com/halannhile/vietnamese-spelling-error-detection/blob/main/NhiLe_COSI114A_Project_Report.pdf)
+
 ## Reference
 
 Do, Dinh-Truong, et al. "VSEC: Transformer-based Model for Vietnamese Spelling Correction". [arXiv:2111.00640](https://arxiv.org/abs/2111.00640)
 
-
+GitHub page for the VSEC dataset can be found [here](https://github.com/VSEC2021/VSEC/tree/main).
 
